@@ -1,7 +1,7 @@
 # Semen Anikin  
 **Junior Front-end Developer**  
 
-<img src="logos/Sam.png" alt="CV Photo" height="300" width="260"/>  
+[<img src="logos/Sam.png" alt="CV Photo" height="300" width="260"/>](Sam.png)
 
 ## Contact
 <a href="mailto:sam.nv89@gmail.com" target="blank"><img src="logos/gmail.png" alt="Gmail" height="40" width="40"/></a>
