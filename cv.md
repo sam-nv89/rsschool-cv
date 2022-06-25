@@ -41,4 +41,22 @@ _I actively study the basics of programming and learn the basics of Front-end de
 * Visual Studio Code
 * PowerShell, Git Bash
 
+## Code examples  
+```Python
+n, k = int(input()), int(input())
+x = k // n
+y = k % n
+print(x, y, sep='\n')
+```
+```Python
+a = int(input())
+for i in range(1, 11):
+    print(a, 'x', i, '=', a*i)
+```
+```JavaScript
+function multiply(a, b){
+  return a * b
+}
+```
+
 ![sam-nv89 GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-nv89&hide=contribs,prs)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-nv89&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
