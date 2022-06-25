@@ -1,5 +1,8 @@
-# Semen Anikin
-**Junior Front-end Developer**
+# Semen Anikin  
+**Junior Front-end Developer**  
+
+<img src=logos/Sam.png alt="CV Photo" height="300" width="260"/>  
+
 ## Contact
 <a href="mailto:sam.nv89@gmail.com" target="blank"><img src="logos/gmail.png" alt="Gmail" height="40" width="40"/></a>
 <a href="https://linkedin.com/in/semen-anikin" target="blank"><img src="logos/linkedin.png" alt="Linkedin" height="40" width="40"/></a>
