@@ -60,4 +60,9 @@ function multiply(a, b){
 }
 ```
 
+## Work experience  
+_Looking forward for my first commercial codding_
+
+
+
 ![sam-nv89 GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-nv89&hide=contribs,prs)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-nv89&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
