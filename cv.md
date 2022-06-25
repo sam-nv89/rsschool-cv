@@ -38,6 +38,7 @@ _I actively study the basics of programming and learn the basics of Front-end de
 * Version Control Systems: Git, Github
 * HTML&CSS (basic knowledges)
 * JavaScript (basic knowledges)
+* Python (basic knowledges)
 * Visual Studio Code
 * PowerShell, Git Bash
 
