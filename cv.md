@@ -34,4 +34,11 @@ I am learning Polish. Student of the specialty "Medical caregiver"._
 * **February, 2022 &mdash; present**  
 _I actively study the basics of programming and learn the basics of Front-end development. I strive to be realized in the field of IT and wish to be involved in achieving global success in international projects._
 
+## Skills  
+* Version Control Systems: Git, Github
+* HTML&CSS (basic knowledges)
+* JavaScript (basic knowledges)
+* Visual Studio Code
+* PowerShell, Git Bash
+
 ![sam-nv89 GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-nv89&hide=contribs,prs)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-nv89&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
