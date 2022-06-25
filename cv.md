@@ -63,6 +63,21 @@ function multiply(a, b){
 ## Work experience  
 _Looking forward for my first commercial codding_
 
-
+## Education and courses  
+* [Saint-Petersburg State University of Aerospace Instrumentation (SUAI)](http://www.suai.ru/) &mdash; Specialist of Business Management (Verified International Academic Qualifications by [WES](https://badges.wes.org/Evidence?i=28bfaa59-d51a-437f-aee4-7b68a063e591&type=ca))
+* The Rolling Scopes School &mdash; [JavaScript/Front-end. Stage 0](https://wearecommunity.io/events/js-stage0-rs-2022q2)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
+* JavaRush &mdash; [Harvard CX50](https://javarush.ru/quests/QUEST_HARVARD_CS50)
+* Stepik &mdash; [Python for beginners](https://stepik.org/course/58852/syllabus)
+* Stepik &mdash; [First aid for cardiac arrest (basic resuscitation)](https://stepik.org/course/13222/syllabus)
+* W3school &mdash; [Git Tutorial](https://www.w3schools.com/git/default.asp)
+* EPAM &mdash; [Version Control with Git](https://learn.epam.com/detailsPage?id=601f195a-d408-4439-a16d-0630ed2a412e)
+* Together &mdash; [Double-semester Polish language course](https://together-school.pl/ru/content/course/godovoj_minimalny/)
+* YouTube  
+    * [Polish language 1](https://youtube.com/playlist?list=PLoq6jgI26X9zQ6o5tPFp61stx_yP--3R8)
+    * [Polish language 2](https://youtube.com/playlist?list=PLsqlYowH737T5hAxqs0wja9niCQoEGg7I)
+    * [English language 1](https://youtube.com/playlist?list=PLgAndSPz7FYNVsE_rs5VdeZo-GhFjozfw)
+    * [English language 2](https://youtube.com/playlist?list=PL6YSKdAvdI7a0xOB7J76NvAyzNK_CfpUF)
+    * [English language 3](https://www.youtube.com/c/EnglexSchool/featured)
 
 ![sam-nv89 GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-nv89&hide=contribs,prs)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-nv89&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
