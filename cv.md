@@ -28,7 +28,7 @@ _Managing the activities of the entire company supplying small quantities of mat
 Formation of a matrix of goods. Preparation of product cards. Coordination of orders and control of their execution. Pre-sale preparation of goods. Inventory. Implementation of shipments and preparation of documentation. Making report. Conducting settlements with suppliers and contractors. Implementation of deliveries to the consumer._
 
 * **December, 2021 &mdash; present**  
-_I live in Warsaw, Poland.  
+_I am living in Warsaw, Poland.  
 I am learning Polish. Student of the specialty "Medical caregiver"._
 
 * **February, 2022 &mdash; present**  
