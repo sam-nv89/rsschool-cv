@@ -85,6 +85,6 @@ _Looking forward for my first commercial codding_
 * **English** &mdash; B1, Upper-Intermediate  
     * EC School (London, UK) &mdash; [General & Intensive English](https://www.ecenglish.com/en/school-locations/uk/learn-english-in-london), summer 2008
     * Work and life practice &mdash; meetings, buisness trips, exhibitions, travels
-* **Polish** &mdash; A1, Basic knowledges
+* **Polish** &mdash; A2, Basic knowledges
 
 ![sam-nv89 GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-nv89&hide=contribs,prs)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-nv89&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
